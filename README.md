@@ -1,4 +1,3 @@
-# aboutme
 <div align="center">
 <img src="https://photos.app.goo.gl/CySbpfsK7b6GYiHW6" align="center" style="width: 100%" />
 </div>  
