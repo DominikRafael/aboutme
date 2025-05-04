@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instagram.com%2Fdominikrafael_%2F&psig=AOvVaw0RwXP8YdQlWX0eEJO8JPkt&ust=1746467792785000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiBmNexio0DFQAAAAAdAAAAABAE" align="center" style="width: 100%" />
+<img src="![Header](./your-header-image-name.png)" align="center" style="width: 100%" />
 </div>  
   
 
